@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_tests",
+  "info": {
+    "displayName": "test",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "test": {
+      "type": "string"
+    },
+    "asd": {
+      "type": "boolean"
+    }
+  }
+}
